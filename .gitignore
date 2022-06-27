@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+train/
+training_data/
+bg_without_text/
+*.zip
